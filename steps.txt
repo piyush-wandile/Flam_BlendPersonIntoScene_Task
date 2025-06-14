@@ -1,0 +1,32 @@
+Task 1: Capturing and Preparing the Person's Image
+step 1: Capture a High-Quality Image
+-captured image of a person using mobile camera
+	Size 2604 x 4624 pixels
+	Type JPEG image
+	File Size 1.9 MB
+	Folder Flam BlendPerso-nintoScene Task
+	Aperture f/1.8
+	Exposure 1/104 sec.
+	Focal Length 24.0 (35mm film), 5.2 (lens)
+	ISO 20
+	Metering Center-weighted average
+	Camera SM-M315F
+	Date Mon, 09 October 2023
+	Time 08:04:54 AM
+-captured a plain environment image using mobile camera
+	Size 1836 x 3264 pixels
+	Type JPEG image
+	File Size 794.8 kB
+	Folder Flam BlendPerso-nintoScene Task
+	Aperture f/2.2
+	Exposure 1/303 sec.
+	Focal Length 13.0 (35mm film), 1.4 (lens)
+	ISO 40
+	Metering Spot
+	Camera SM-M315F
+	Date Thu, 11 August 2022
+	Time 06:14:46 PM
+
+step 2: Remove the Background
+- removed background using photopea platform (free online version of photoshop)
+- used magnetic lasso tool to precisely select the person's boundary, inverted the selection and deleted the background
