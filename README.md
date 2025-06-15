@@ -42,7 +42,7 @@
 - Used the **Magnetic Lasso Tool** to precisely select the person's boundary
 - Inverted the selection and deleted the background
 
-![Foreground without Background - original_fg_WithoutBG.jpg](./original_fg_WithoutBG.jpg)
+![Foreground without Background - original_fg_WithoutBG.jpg](./original_fg_WithoutBG.png)
 
 ---
 
@@ -63,14 +63,16 @@
 ![Menu Screenshot 2](./menu_ss/ColorOverlay.png)
 ![Menu Screenshot 3](./menu_ss/contour.png)
 ![Menu Screenshot 4](./menu_ss/DropShadow_1.png)
-![Menu Screenshot 5](./menu_ss/DropShadow_2.png.png)
+![Menu Screenshot 5](./menu_ss/DropShadow_2.png)
 ![Menu Screenshot 6](./menu_ss/GradientOverlay.png)
 ![Menu Screenshot 7](./menu_ss/InnerShadow.png)
 ![Menu Screenshot 8](./menu_ss/OuterGlow.png)
 ![Menu Screenshot 9](./menu_ss/Satin.png)
 ![Menu Screenshot 10](./menu_ss/stroke.png)
 
-> ✅ The image blends well into the background after the manual adjustments.
+## Final Blended Image:
+
+![Final Blended Image](./Blended_Image.jpg)
 
 ---
 
