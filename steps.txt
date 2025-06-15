@@ -1,4 +1,5 @@
 Task 1: Capturing and Preparing the Person's Image
+<add original_fg.jpg and original_bg.jgp>
 step 1: Capture a High-Quality Image
 -captured image of a person using mobile camera
 	Size 2604 x 4624 pixels
@@ -30,3 +31,16 @@ step 1: Capture a High-Quality Image
 step 2: Remove the Background
 - removed background using photopea platform (free online version of photoshop)
 - used magnetic lasso tool to precisely select the person's boundary, inverted the selection and deleted the background
+<add original_fg_WithoutBG.jpg>
+
+step 3: blend in the image
+- copied the person's image as it onto the background
+- scaled it to suit the size and perspective from given point of view
+<add merged_image_1.jpg>
+- observed the edge difference in the merged image
+<add SS from python notebook>
+- adjusting foreground brightness, contrast and saturation to match that of background
+- used "Blending Options" menu for the layer of person's image.
+- adjusted the settings as shown:
+<add menu screenshots>
+- The image is blended well in the background after the manual tweaks
